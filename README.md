@@ -1,8 +1,8 @@
-# project-group-11
+# project-group
 
 Team Introduction
 
-Welcome to our ECSE 321 Project repository! This project focuses on developing a system in compliance with software engineering principles, covering requirements, domain modeling, database design, and more. Our team is dedicated to implementing a solution following best practices in agile project management and ensuring the quality of the system through testing, documentation, and collaboration.
+Welcome to our Project repository! This project focuses on developing a system in compliance with software engineering principles, covering requirements, domain modeling, database design, and more. Our team is dedicated to implementing a solution following best practices in agile project management and ensuring the quality of the system through testing, documentation, and collaboration.
 
 # Team Members:
 
