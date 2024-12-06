@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "VideoGamesSystem-Backend",
+        ""
+    ],
+    "java.project.referencedLibraries": [],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
